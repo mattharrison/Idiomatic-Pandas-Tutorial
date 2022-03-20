@@ -8,4 +8,5 @@ Pandas Training © MetaSnake 2022, CC BY-NC
   * Jupyter (local install) - see https://www.metasnake.com/blog/pydata-dev.html for help
   * Colab (requires Google access)
 
+## For more Pandas help
 Check out my book, Effective Pandas, at https://store.metasnake.com
